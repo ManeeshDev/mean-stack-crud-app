@@ -1,0 +1,21 @@
+{
+    "name": "meanbackend",
+    "version": "1.0.0",
+    "description": "mean backend",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "*",
+        "cors": "^2.8.5",
+        "express": "*",
+        "http": "*",
+        "mongoose": "*"
+    },
+    "devDependencies": {
+        "nodemon": "*"
+    }
+}
